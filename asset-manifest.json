@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Forms-hex2rgb/static/css/main.cb295959.css",
+    "main.js": "/RA-Forms-hex2rgb/static/js/main.1097a284.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Forms-hex2rgb/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Forms-hex2rgb/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Forms-hex2rgb/index.html",
+    "main.cb295959.css.map": "/RA-Forms-hex2rgb/static/css/main.cb295959.css.map",
+    "main.1097a284.js.map": "/RA-Forms-hex2rgb/static/js/main.1097a284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb295959.css",
+    "static/js/main.1097a284.js"
+  ]
+}
